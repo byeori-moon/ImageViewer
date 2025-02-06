@@ -2,7 +2,7 @@
 
 ## 프로젝트 설명
 
-https://www.sooplive.co.kr/directory/category에서 이미지를 가져와 썸네일을 그리드 형식으로 표시하는 앱입니다.
+https://www.sooplive.co.kr/directory/category 에서 이미지를 가져와 썸네일을 그리드 형식으로 표시하는 앱입니다.
 - [APK 다운로드 - v1.0.0](https://github.com/byeori-moon/ImageViewer/releases/tag/v1.0.0)
 
 
